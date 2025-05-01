@@ -72,5 +72,6 @@ void loop(){
   M5.Lcd.printf("OUTPUT : ON");
   M5.Lcd.fillCircle(10, 51, 8, ORANGE);
 }
+ 
 delay(100);
 }
